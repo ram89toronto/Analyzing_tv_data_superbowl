@@ -3,10 +3,10 @@
 ## SuperBowl Data Analysis
 
 Business Questions 
-- What are the most extreme game outcomes
-- How does the game affect televition viewership
-- How have viewership, tv ratings, cost evolved overtime
-- who are the most prolific musicians in term of halftime show performance
+- What are the most extreme game outcomes ?
+- How does the game affect televition viewership ?
+- How have viewership, tv ratings, cost evolved overtime ?
+- who are the most prolific musicians in term of halftime show performance ?
 
 Data Source:
 - Wikipedia Scarping data and cleaned
